@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This app is deployed in https://elgaridhomaulana.github.io/robofriends/. Check it out for fun!
+
+## How to Use the app
+
+1. Clone the app from this repository
+2. Run `npm install` on your terminal in the cloned direktory
+3. Run `npm start`
+
 ## Available Scripts
 
 In the project directory, you can run:
