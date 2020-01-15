@@ -1,0 +1,10 @@
+@font-face{
+font-family: 'Bebas Neue';
+font-style:normal;
+font-weight:normal;
+src: local('Bebas Neue'), url('BebasNeue-Regular.woff') format('woff');
+}
+
+h1 {
+    font-family: 'Bebas Neue';
+}
